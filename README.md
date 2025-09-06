@@ -61,12 +61,12 @@ public static function linkMaker()
 Extracts a 3-character substring starting from the 10th character of the input string.
 public static function subLink($abbreviatedlink)
 
-🎨 UI Notes
+## 🎨 UI Notes
 The form and output are styled with basic CSS for clarity.
 
 Inline styles use fixed margin-left values, which may not be responsive. Consider using Flexbox or Grid for better layout control.
 
-🌱 Future Improvements
+## 🌱 Future Improvements
 Add database support to store and retrieve original/abbreviated links
 
 Implement actual redirection logic for abbreviated links
@@ -75,6 +75,6 @@ Improve substring logic to ensure meaningful abbreviations
 
 Enhance UI responsiveness for mobile devices
 
-📄 License
+## 📄 License
 This project is open-source and free to use under the MIT License.
 Let me know if you'd like help formatting this for GitHub, adding badges, or turning it into a full landing page!
